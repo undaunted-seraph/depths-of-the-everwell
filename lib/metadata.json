@@ -1,0 +1,398 @@
+{
+  "vaultName": "Mortal Expanse Player Guides",
+  "lastExport": 1728899339059,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Abridged References/Black Crescent Vale.md",
+    "Abridged References/Kel Soren.md",
+    "Mortal Expanse Reference/Astronomy/Ashmara.md",
+    "Mortal Expanse Reference/Astronomy/Astral Rings.md",
+    "Mortal Expanse Reference/Astronomy/Kalcrea.md",
+    "Mortal Expanse Reference/Astronomy/Sorith.md",
+    "Mortal Expanse Reference/Astronomy/Tarkull.md",
+    "Mortal Expanse Reference/Astronomy/Valekath.md",
+    "Mortal Expanse Reference/Characters/Deities/Primordial Deities/Primordial Deities.md",
+    "Mortal Expanse Reference/Locations/Black Crescent Vale.md",
+    "Mortal Expanse Reference/Locations/Stradeum.md",
+    "Mortal Expanse Reference/Professions/Astraseer.md",
+    "Mortal Expanse Reference/Setting/Astral Gateways.md",
+    "Mortal Expanse Reference/Setting/Mortal Expanse.md",
+    "Mortal Expanse Reference/Setting/Mortal Races.md",
+    "Mortal Expanse Reference/Setting/Span.md",
+    "Mortal Expanse Reference/Setting/Succession.md",
+    "Depths of the Everwell Player's Guide.md",
+    "lib/media/kel-soren-chasms-and-plateaus.png",
+    "lib/media/kalcrea-world-map.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Abridged References/Black Crescent Vale.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 414,
+      "exportedPath": "abridged-references/black-crescent-vale.html",
+      "dependencies": []
+    },
+    "Abridged References/Kel Soren.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 965,
+      "exportedPath": "abridged-references/kel-soren.html",
+      "dependencies": [
+        "lib/media/kel-soren-chasms-and-plateaus.png"
+      ]
+    },
+    "Mortal Expanse Reference/Astronomy/Ashmara.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 628,
+      "exportedPath": "mortal-expanse-reference/astronomy/ashmara.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Astronomy/Astral Rings.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 1341,
+      "exportedPath": "mortal-expanse-reference/astronomy/astral-rings.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Astronomy/Kalcrea.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 140,
+      "exportedPath": "mortal-expanse-reference/astronomy/kalcrea.html",
+      "dependencies": [
+        "lib/media/kalcrea-world-map.png"
+      ]
+    },
+    "Mortal Expanse Reference/Astronomy/Sorith.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 86,
+      "exportedPath": "mortal-expanse-reference/astronomy/sorith.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Astronomy/Tarkull.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 187,
+      "exportedPath": "mortal-expanse-reference/astronomy/tarkull.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Astronomy/Valekath.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 189,
+      "exportedPath": "mortal-expanse-reference/astronomy/valekath.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Characters/Deities/Primordial Deities/Primordial Deities.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 1297,
+      "exportedPath": "mortal-expanse-reference/characters/deities/primordial-deities/primordial-deities.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Locations/Black Crescent Vale.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 427,
+      "exportedPath": "mortal-expanse-reference/locations/black-crescent-vale.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Locations/Stradeum.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 870,
+      "exportedPath": "mortal-expanse-reference/locations/stradeum.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Professions/Astraseer.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 195,
+      "exportedPath": "mortal-expanse-reference/professions/astraseer.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Setting/Astral Gateways.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 1411,
+      "exportedPath": "mortal-expanse-reference/setting/astral-gateways.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Setting/Mortal Expanse.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 101,
+      "exportedPath": "mortal-expanse-reference/setting/mortal-expanse.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Setting/Mortal Races.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 239,
+      "exportedPath": "mortal-expanse-reference/setting/mortal-races.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Setting/Span.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 139,
+      "exportedPath": "mortal-expanse-reference/setting/span.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Setting/Succession.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 307,
+      "exportedPath": "mortal-expanse-reference/setting/succession.html",
+      "dependencies": []
+    },
+    "Depths of the Everwell Player's Guide.md": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 2416,
+      "exportedPath": "depths-of-the-everwell-player's-guide.html",
+      "dependencies": []
+    },
+    "lib/media/kel-soren-chasms-and-plateaus.png": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 7028737,
+      "exportedPath": "lib/media/kel-soren-chasms-and-plateaus.png",
+      "dependencies": []
+    },
+    "lib/media/kalcrea-world-map.png": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 21791183,
+      "exportedPath": "lib/media/kalcrea-world-map.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 12729,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 1914,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 41426,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 311,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1728899339059,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
