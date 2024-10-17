@@ -1,30 +1,34 @@
 {
   "vaultName": "Mortal Expanse Player Guides",
-  "lastExport": 1729104515564,
+  "lastExport": 1729192338260,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Abridged References/Black Crescent Vale.md",
-    "Abridged References/Kel Soren.md",
     "Mortal Expanse Reference/Glossary/Astronomy/Ashmara.md",
     "Mortal Expanse Reference/Glossary/Astronomy/Astral Rings.md",
     "Mortal Expanse Reference/Glossary/Astronomy/Kalcrea.md",
     "Mortal Expanse Reference/Glossary/Astronomy/Sorith.md",
     "Mortal Expanse Reference/Glossary/Astronomy/Tarkull.md",
     "Mortal Expanse Reference/Glossary/Astronomy/Valekath.md",
+    "Mortal Expanse Reference/Glossary/Attachments/Maps/Alvoria, Alvorian Isles and Lands of the Sovereign Lords - Southern Legionhold.png",
+    "Mortal Expanse Reference/Glossary/Attachments/Maps/Kalcrea World Map - Southern Exylstrad.png",
+    "Mortal Expanse Reference/Glossary/Attachments/Maps/Southern Legionhold - Kel Soren.png",
     "Mortal Expanse Reference/Glossary/Bestiary/Agyran.md",
     "Mortal Expanse Reference/Glossary/Deities/Primordial Deities.md",
+    "Mortal Expanse Reference/Glossary/Factions/Black Crescent Legion.md",
     "Mortal Expanse Reference/Glossary/Geography/Astral Rings - Divides and Confluences/Aetherborn Confluence.md",
     "Mortal Expanse Reference/Glossary/Geography/Astral Rings - Divides and Confluences/Agyran Confluence.md",
-    "Mortal Expanse Reference/Glossary/Geography/Agyran Peaks.md",
-    "Mortal Expanse Reference/Glossary/Geography/Planar Isles.md",
-    "Mortal Expanse Reference/Glossary/Geography/Stradeum.md",
     "Mortal Expanse Reference/Glossary/Geography/The Aurean Eye.md",
     "Mortal Expanse Reference/Glossary/Geography/The Deific Span.md",
     "Mortal Expanse Reference/Glossary/Geography/The Eternal Eye.md",
     "Mortal Expanse Reference/Glossary/Geography/The Forgotten Span.md",
+    "Mortal Expanse Reference/Glossary/Locations/Agyran Peaks.md",
+    "Mortal Expanse Reference/Glossary/Locations/Black Crescent Vale.md",
+    "Mortal Expanse Reference/Glossary/Locations/Planar Isles.md",
+    "Mortal Expanse Reference/Glossary/Locations/Stradeum.md",
+    "Mortal Expanse Reference/Glossary/Nations/Legionhold.md",
     "Mortal Expanse Reference/Glossary/Natural Phenomena/Confluence.md",
     "Mortal Expanse Reference/Glossary/Natural Phenomena/Spark.md",
     "Mortal Expanse Reference/Glossary/Professions/Astraseer.md",
@@ -36,8 +40,8 @@
     "Mortal Expanse Reference/Glossary/Setting/Mortal Races.md",
     "Mortal Expanse Reference/Glossary/Setting/Span.md",
     "Mortal Expanse Reference/Glossary/Setting/Succession.md",
+    "Mortal Expanse Reference/Glossary/Settlements/Kel Soren/Kel Soren.md",
     "Depths of the Everwell Player's Guide.md",
-    "lib/media/kel-soren-chasms-and-plateaus.png",
     "lib/media/kalcrea-world-map.png",
     "lib/media/kalcrea-world-map-aetherborne-confluence.png",
     "lib/media/kalcrea-world-map-agyran-confluence.png",
@@ -45,6 +49,11 @@
     "lib/media/kalcrea-world-map-the-deific-span.png",
     "lib/media/kalcrea-world-map-the-eternal-eye.png",
     "lib/media/kalcrea-world-map-the-forgotten-span.png",
+    "lib/media/kalcrea-world-map-southern-exylstrad.png",
+    "lib/media/alvoria,-alvorian-isles-and-lands-of-the-sovereign-lords-southern-legionhold.png",
+    "lib/media/southern-legionhold-kel-soren.png",
+    "lib/media/kel-soren-chasms-and-plateaus.png",
+    "lib/media/kel-soren-homes.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -109,34 +118,20 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Abridged References/Black Crescent Vale.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 414,
-      "exportedPath": "abridged-references/black-crescent-vale.html",
-      "dependencies": []
-    },
-    "Abridged References/Kel Soren.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 965,
-      "exportedPath": "abridged-references/kel-soren.html",
-      "dependencies": [
-        "lib/media/kel-soren-chasms-and-plateaus.png"
-      ]
-    },
     "Mortal Expanse Reference/Glossary/Astronomy/Ashmara.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 628,
       "exportedPath": "mortal-expanse-reference/glossary/astronomy/ashmara.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Astronomy/Astral Rings.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 1341,
+      "modifiedTime": 1729192338260,
+      "sourceSize": 1440,
       "exportedPath": "mortal-expanse-reference/glossary/astronomy/astral-rings.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Astronomy/Kalcrea.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 140,
       "exportedPath": "mortal-expanse-reference/glossary/astronomy/kalcrea.html",
       "dependencies": [
@@ -144,37 +139,37 @@
       ]
     },
     "Mortal Expanse Reference/Glossary/Astronomy/Sorith.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 113,
       "exportedPath": "mortal-expanse-reference/glossary/astronomy/sorith.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Astronomy/Tarkull.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 187,
       "exportedPath": "mortal-expanse-reference/glossary/astronomy/tarkull.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Astronomy/Valekath.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 189,
       "exportedPath": "mortal-expanse-reference/glossary/astronomy/valekath.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Bestiary/Agyran.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 244,
       "exportedPath": "mortal-expanse-reference/glossary/bestiary/agyran.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Deities/Primordial Deities.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 1297,
       "exportedPath": "mortal-expanse-reference/glossary/deities/primordial-deities.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Geography/Astral Rings - Divides and Confluences/Aetherborn Confluence.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 222,
       "exportedPath": "mortal-expanse-reference/glossary/geography/astral-rings-divides-and-confluences/aetherborn-confluence.html",
       "dependencies": [
@@ -182,33 +177,15 @@
       ]
     },
     "Mortal Expanse Reference/Glossary/Geography/Astral Rings - Divides and Confluences/Agyran Confluence.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 204,
       "exportedPath": "mortal-expanse-reference/glossary/geography/astral-rings-divides-and-confluences/agyran-confluence.html",
       "dependencies": [
         "lib/media/kalcrea-world-map-agyran-confluence.png"
       ]
     },
-    "Mortal Expanse Reference/Glossary/Geography/Agyran Peaks.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 171,
-      "exportedPath": "mortal-expanse-reference/glossary/geography/agyran-peaks.html",
-      "dependencies": []
-    },
-    "Mortal Expanse Reference/Glossary/Geography/Planar Isles.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 183,
-      "exportedPath": "mortal-expanse-reference/glossary/geography/planar-isles.html",
-      "dependencies": []
-    },
-    "Mortal Expanse Reference/Glossary/Geography/Stradeum.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 870,
-      "exportedPath": "mortal-expanse-reference/glossary/geography/stradeum.html",
-      "dependencies": []
-    },
     "Mortal Expanse Reference/Glossary/Geography/The Aurean Eye.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 182,
       "exportedPath": "mortal-expanse-reference/glossary/geography/the-aurean-eye.html",
       "dependencies": [
@@ -216,7 +193,7 @@
       ]
     },
     "Mortal Expanse Reference/Glossary/Geography/The Deific Span.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 183,
       "exportedPath": "mortal-expanse-reference/glossary/geography/the-deific-span.html",
       "dependencies": [
@@ -224,7 +201,7 @@
       ]
     },
     "Mortal Expanse Reference/Glossary/Geography/The Eternal Eye.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 183,
       "exportedPath": "mortal-expanse-reference/glossary/geography/the-eternal-eye.html",
       "dependencies": [
@@ -232,7 +209,7 @@
       ]
     },
     "Mortal Expanse Reference/Glossary/Geography/The Forgotten Span.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 186,
       "exportedPath": "mortal-expanse-reference/glossary/geography/the-forgotten-span.html",
       "dependencies": [
@@ -240,303 +217,393 @@
       ]
     },
     "Mortal Expanse Reference/Glossary/Natural Phenomena/Confluence.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 515,
       "exportedPath": "mortal-expanse-reference/glossary/natural-phenomena/confluence.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Natural Phenomena/Spark.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 384,
       "exportedPath": "mortal-expanse-reference/glossary/natural-phenomena/spark.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Professions/Astraseer.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 195,
       "exportedPath": "mortal-expanse-reference/glossary/professions/astraseer.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Seasons/Arcane Seasons - Seasons of Flux and of Stability.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 833,
       "exportedPath": "mortal-expanse-reference/glossary/seasons/arcane-seasons-seasons-of-flux-and-of-stability.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Seasons/Season of Flux.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 347,
       "exportedPath": "mortal-expanse-reference/glossary/seasons/season-of-flux.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Seasons/Season of Stability.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 678,
       "exportedPath": "mortal-expanse-reference/glossary/seasons/season-of-stability.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Setting/Astral Gateways.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 1411,
       "exportedPath": "mortal-expanse-reference/glossary/setting/astral-gateways.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Setting/Mortal Expanse.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 128,
       "exportedPath": "mortal-expanse-reference/glossary/setting/mortal-expanse.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Setting/Mortal Races.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 239,
       "exportedPath": "mortal-expanse-reference/glossary/setting/mortal-races.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Setting/Span.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 139,
       "exportedPath": "mortal-expanse-reference/glossary/setting/span.html",
       "dependencies": []
     },
     "Mortal Expanse Reference/Glossary/Setting/Succession.md": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 307,
       "exportedPath": "mortal-expanse-reference/glossary/setting/succession.html",
       "dependencies": []
     },
     "Depths of the Everwell Player's Guide.md": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 2416,
+      "modifiedTime": 1729192338260,
+      "sourceSize": 2427,
       "exportedPath": "depths-of-the-everwell-player's-guide.html",
       "dependencies": []
     },
     "lib/media/kel-soren-chasms-and-plateaus.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 7028737,
       "exportedPath": "lib/media/kel-soren-chasms-and-plateaus.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 21791183,
       "exportedPath": "lib/media/kalcrea-world-map.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map-aetherborne-confluence.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 22461155,
       "exportedPath": "lib/media/kalcrea-world-map-aetherborne-confluence.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map-agyran-confluence.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 22462142,
       "exportedPath": "lib/media/kalcrea-world-map-agyran-confluence.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map-the-aurean-eye.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 22257095,
       "exportedPath": "lib/media/kalcrea-world-map-the-aurean-eye.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map-the-deific-span.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 22240939,
       "exportedPath": "lib/media/kalcrea-world-map-the-deific-span.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map-the-eternal-eye.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 22378800,
       "exportedPath": "lib/media/kalcrea-world-map-the-eternal-eye.png",
       "dependencies": []
     },
     "lib/media/kalcrea-world-map-the-forgotten-span.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 22307325,
       "exportedPath": "lib/media/kalcrea-world-map-the-forgotten-span.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 19633,
+      "modifiedTime": 1729192338260,
+      "sourceSize": 25651,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729104515564,
-      "sourceSize": 3762,
+      "modifiedTime": 1729192338260,
+      "sourceSize": 4036,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 41426,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729104515564,
+      "modifiedTime": 1729192338260,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Attachments/Maps/Alvoria, Alvorian Isles and Lands of the Sovereign Lords - Southern Legionhold.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 10070748,
+      "exportedPath": "mortal-expanse-reference/glossary/attachments/maps/alvoria,-alvorian-isles-and-lands-of-the-sovereign-lords-southern-legionhold.png",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Attachments/Maps/Kalcrea World Map - Southern Exylstrad.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 22507169,
+      "exportedPath": "mortal-expanse-reference/glossary/attachments/maps/kalcrea-world-map-southern-exylstrad.png",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Attachments/Maps/Southern Legionhold - Kel Soren.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 11291167,
+      "exportedPath": "mortal-expanse-reference/glossary/attachments/maps/southern-legionhold-kel-soren.png",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Factions/Black Crescent Legion.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 35,
+      "exportedPath": "mortal-expanse-reference/glossary/factions/black-crescent-legion.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Locations/Agyran Peaks.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 171,
+      "exportedPath": "mortal-expanse-reference/glossary/locations/agyran-peaks.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Locations/Black Crescent Vale.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 414,
+      "exportedPath": "mortal-expanse-reference/glossary/locations/black-crescent-vale.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Locations/Planar Isles.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 183,
+      "exportedPath": "mortal-expanse-reference/glossary/locations/planar-isles.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Locations/Stradeum.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 870,
+      "exportedPath": "mortal-expanse-reference/glossary/locations/stradeum.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Nations/Legionhold.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 273,
+      "exportedPath": "mortal-expanse-reference/glossary/nations/legionhold.html",
+      "dependencies": []
+    },
+    "Mortal Expanse Reference/Glossary/Settlements/Kel Soren/Kel Soren.md": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 1909,
+      "exportedPath": "mortal-expanse-reference/glossary/settlements/kel-soren/kel-soren.html",
+      "dependencies": [
+        "lib/media/kalcrea-world-map-southern-exylstrad.png",
+        "lib/media/alvoria,-alvorian-isles-and-lands-of-the-sovereign-lords-southern-legionhold.png",
+        "lib/media/southern-legionhold-kel-soren.png",
+        "lib/media/kel-soren-chasms-and-plateaus.png",
+        "lib/media/kel-soren-homes.png"
+      ]
+    },
+    "lib/media/kalcrea-world-map-southern-exylstrad.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 22507169,
+      "exportedPath": "lib/media/kalcrea-world-map-southern-exylstrad.png",
+      "dependencies": []
+    },
+    "lib/media/alvoria,-alvorian-isles-and-lands-of-the-sovereign-lords-southern-legionhold.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 10070748,
+      "exportedPath": "lib/media/alvoria,-alvorian-isles-and-lands-of-the-sovereign-lords-southern-legionhold.png",
+      "dependencies": []
+    },
+    "lib/media/southern-legionhold-kel-soren.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 11291167,
+      "exportedPath": "lib/media/southern-legionhold-kel-soren.png",
+      "dependencies": []
+    },
+    "lib/media/kel-soren-homes.png": {
+      "modifiedTime": 1729192338260,
+      "sourceSize": 7834352,
+      "exportedPath": "lib/media/kel-soren-homes.png",
       "dependencies": []
     }
   }
